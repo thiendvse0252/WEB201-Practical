@@ -1,0 +1,43 @@
+.left img{
+    display: none;
+}
+
+.right h2{
+    text-transform: uppercase;
+    color: #9d9999;
+}
+.right tr th{
+    background-color: #ffff99;
+}
+
+.right table{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+header{
+    background-color: #cccccc;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* width: 90%; */
+}
+
+header nav a{
+    color: #020131;
+    /* outline-style:inherit; */
+    margin-left: 5px;
+    background-color: #999999;
+    /* text-decoration: none; */
+}
+
+header h1{
+    color: #ffff00;
+    text-transform: uppercase;
+    /* display: inline-block; */
+}
+
+main{
+    background-color: #cccccc;
+    /* margin-top: 10px; */
+}

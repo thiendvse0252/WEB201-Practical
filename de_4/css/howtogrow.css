@@ -1,0 +1,29 @@
+footer {
+    background-color: #c6ffc6;
+    text-align: center;
+    height: 90px;
+    padding-top: 5px;
+}
+
+footer :first-child a {
+    color: #1b26e8;
+}
+
+section p {
+
+    width: 200px;
+    /* display: flex; */
+    margin-left: 25px;
+    margin-right: 20px;
+}
+
+.howtogrow {
+    display: flex;
+    width: 100%;
+
+}
+
+.howtogrow p::first-letter {
+    font-weight: bold;
+    font-size: 25px;
+}
