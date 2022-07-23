@@ -1,1 +1,1 @@
-<h2> href="">WEB Practice Projects </h2>
+<h2>WEB Practice Projects </h2>
